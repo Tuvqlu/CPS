@@ -2,7 +2,7 @@
 build-by-default: true
 branches:
 - main
-projects:
+projects: 
   CPS:
     path: ""
     icon: icon.png
