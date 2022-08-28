@@ -4,6 +4,6 @@ branches:
 - main
 projects: 
   CPS:
-    path: ""
+    path: "" 
     icon: icon.png
 ...
